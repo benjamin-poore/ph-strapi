@@ -12,7 +12,7 @@ const path = require("path");
 
 // path: ./config/database.ts`
 
-export default ({ env }) => ({
+module.exports = ({ env }) => ({
   connection: {
     client: "postgres",
     connection: {
