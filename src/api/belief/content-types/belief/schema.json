@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "beliefs",
+  "info": {
+    "singularName": "belief",
+    "pluralName": "beliefs",
+    "displayName": "Belief"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "belief": {
+      "type": "text"
+    }
+  }
+}
